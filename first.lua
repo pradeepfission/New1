@@ -9,7 +9,7 @@ variable_one = true
 print(type(variable_one))]]
 
 --t = {foo = "bar", [123] = 456}w
-----print(t.foo)
+------print(t.foo)
 --for key,value in pairs(t) do print(key,value) end
 
 w = {x=0, y=0, label="console"}
